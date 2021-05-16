@@ -17,12 +17,12 @@ There project encompasses 4 classes – LinkedList, Multi , DeepLearner, and Gam
 Although, code has descriptive variables, and is self-explanatory; there are some inline comments for explanation.
 
 ## GAMEPLAY DETAILS:
-**Single player mode** - encorporates the custom deep learning algorithm where the CPU player becomes more *aggressive* upon the *history of games*. The games will probably end up in a draw rather than winning at a point or user may win in the first few games.
-**Multiplayer mode** - encorporates the two player 4X4 Tic-Tac-Toe that asks for name, and then each player gets their turn until a win/lose occurs or a draw.
-**Login** - This is an additional feature that creates account for highscore names, and records.
-**High-score** - The best players of the game are recorded here. The high-score is calculated by the time that is consumed for the completion of game.
-**How to play** - This tells the user, how the to play tic tac toe. This obviously isn't required as only a cave person wouldn't know of this! But, we still added this feature.
-**Exit** - Exits the game
+  - **Single player mode** - encorporates the custom deep learning algorithm where the CPU player becomes more *aggressive* upon the *history of games*. The games will probably end up in a draw rather than winning at a point or user may win in the first few games.
+  - **Multiplayer mode** - encorporates the two player 4X4 Tic-Tac-Toe that asks for name, and then each player gets their turn until a win/lose occurs or a draw.
+  - **Login** - This is an additional feature that creates account for highscore names, and records.
+  - **High-score** - The best players of the game are recorded here. The high-score is calculated by the time that is consumed for the completion of game.
+  - **How to play** - This tells the user, how the to play tic tac toe. This obviously isn't required as only a cave person wouldn't know of this! But, we still added this feature.
+  - **Exit** - Exits the game
 
 ## HOW TO RUN:
 Compile and run the source code in command line or IDE having CPP in extension/system.
